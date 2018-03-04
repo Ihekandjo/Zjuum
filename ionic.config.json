@@ -1,0 +1,9 @@
+{
+  "name": "360 App",
+  "app_id": "",
+  "type": "ionic1",
+  "integrations": {
+    "cordova": {}
+  },
+  "watchPatterns": []
+}
